@@ -1,0 +1,9 @@
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/altitude.tif filter=lfs diff=lfs merge=lfs -text
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/distance_to_Driver.tif filter=lfs diff=lfs merge=lfs -text
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/distance_to_faults1.tif filter=lfs diff=lfs merge=lfs -text
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/distance_to_road.tif filter=lfs diff=lfs merge=lfs -text
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/Lithology.tif filter=lfs diff=lfs merge=lfs -text
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/NDVI.tif filter=lfs diff=lfs merge=lfs -text
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/Rainfall.tif filter=lfs diff=lfs merge=lfs -text
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/slope.tif filter=lfs diff=lfs merge=lfs -text
+Experimental[[:space:]]data/landslide[[:space:]]reference[[:space:]]factors/soiltype.tif filter=lfs diff=lfs merge=lfs -text

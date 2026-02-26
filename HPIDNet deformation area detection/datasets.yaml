@@ -1,0 +1,10 @@
+train: E:\Yolov11\YOLOv11\data\Dataaugmentation=8\train\images
+val: E:\Yolov11\YOLOv11\data\Dataaugmentation=8\val\images
+test: E:\Yolov11\YOLOv11\data\Dataaugmentation=8\test\images
+#train: E:\Yolov11\YOLOv11\guizhou datasets\train\images
+#val: E:\Yolov11\YOLOv11\guizhou datasets\val\images
+#test: E:\Yolov11\YOLOv11\guizhou datasets\test
+
+nc: 1
+
+names: ['deformation']
